@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+section {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
